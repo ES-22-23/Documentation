@@ -39,7 +39,7 @@ The team will:
 
 In most cases, a story point uses one of the following scales: 1,2,4,8,16; X-Small, Small, Medium, Large, Extra-Large (*known as “T-Shirt Sizing”*); Fibonacci sequence: 1,2,3,5,8,13,21.
 
-**Benefits**:
+### Benefits
 
 - Less time, and easy to refine
 - Can be explained easily and expectations can be justified
