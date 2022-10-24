@@ -10,7 +10,7 @@ sidebar_position: 1
 
 ## Models Relation Structure
 
-![Model Relation Structure image](img/SMAPI.vpd.png)
+![Model Relation Structure image](/img/SMAPI.vpd.png)
 
 
 ## Endpoints
