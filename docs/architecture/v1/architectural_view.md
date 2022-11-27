@@ -19,4 +19,4 @@ The Intrusions API and Sites Management API will be developed using **Spring Boo
 
 ## Architecture Diagram
 
-![Architecture Diagram](../../static/img/ES_Architecture_Diagram.jpg)
+![Architecture Diagram](../../../static/img/ES_Architecture_Diagram_V1.jpg)
