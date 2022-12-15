@@ -19,4 +19,5 @@ This information will then be used to update the client's instance on Keycloak.
 
 Password changes cannot be performed via this method, as it's impossible to perform the change on the newer Keycloak versions.
 
+![Info Update Screen image](/img/Client_Info_Update.png)
 
