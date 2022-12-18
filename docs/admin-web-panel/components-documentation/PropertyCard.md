@@ -19,4 +19,5 @@ import CardItem from "../CardItem/CardItem";
 | Name | Type | Default | Description |
 |:-----|:-----|:-----|:-----|
 | property | object |  | The property details to display |
+| deleteCurrentProperty | function |  | The function to call when the property is deleted |
 
