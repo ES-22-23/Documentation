@@ -34,4 +34,6 @@ This API tracks all properties being monitored, along with all the logic regardi
 - Get All videos of a camera
 - Get videos with a video key
 
+## API Documentation
 
+https://documenter.getpostman.com/view/24950294/2s8YzZPKBS
