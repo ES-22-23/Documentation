@@ -19,6 +19,6 @@ First the AAF sends a request to the Service Registry to get an Alarm ID. Next, 
 The Flask Server has only one endpoint "/health". This endpoint is used to check if the alarm is available and running and to check if the alarm is "ringing" (activate).
 
 
-# API Documentation
+## API Documentation
 
 https://documenter.getpostman.com/view/24950294/2s8YzZPKBS
