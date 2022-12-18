@@ -1,0 +1,8 @@
+{
+  "label": "Intrusion Management",
+  "position": 9,
+  "link": {
+    "type": "generated-index",
+    "description": "Documentation describing the Intrusion Management API"
+  }
+}
