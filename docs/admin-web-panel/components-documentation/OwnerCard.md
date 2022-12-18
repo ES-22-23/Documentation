@@ -19,4 +19,5 @@ import CardItem from "../CardItem/CardItem";
 | Name | Type | Default | Description |
 |:-----|:-----|:-----|:-----|
 | owner | object | {"username": "username", "name": "name", "email": "email", "properties": []} | Owner details to be displayed on the card |
+| deleteCurrentOwner | function |  | Function to delete the current owner |
 

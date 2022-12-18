@@ -24,16 +24,15 @@ The definition of done (DoD) is when all the criteria defined for the conclusion
 
 ## Mandatory Criteria
 
+- Product Owner accepts the User Story
 - Acceptance criteria met
 - Unit and functional tests passed
-- Code reviewed
-- Product Owner accepts the User Story
+- Code reviewed (Peer code review)
+- No build fails
 
 ## Optional Criteria
 
-- Peer code review passed
 - Non-Functional requirements met
-- No build fails
 - Integrated into a clean build
 - No errors in coding standards
 - Technical debts under X days
