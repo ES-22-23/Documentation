@@ -6,7 +6,7 @@ tags:
 
 sidebar_position: 1
 ---
-# Sites Management API
+# Intrusion Management API
 
 ## Description
 This API acts whenever an intrusion is detected. It will get the intrusion video clips from the cameras and activate the alarms.
