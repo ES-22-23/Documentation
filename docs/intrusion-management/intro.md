@@ -19,4 +19,6 @@ This API acts whenever an intrusion is detected. It will get the intrusion video
 
 - video_clips - post endpoint where the camera sends the video clips that are store in AWS S3.
 
+## API Documentation
 
+https://documenter.getpostman.com/view/24950294/2s8YzZPKBS
