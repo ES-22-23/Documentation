@@ -11,29 +11,7 @@ sidebar_position: 1
 ## Description
 This API tracks all properties being monitored, along with all the logic regarding the “owners” of each property. It has CRUD endpoints for not only the property and the owner but also to the cameras and alarms that belong to the property.
  
-## Models Relation Structure
-
-![Model Relation Structure image](/img/SMAPI.vpd.png)
-
-
-## Endpoints
-
-- CRUD Owner endpoint 
-- CRUD Property endpoint 
-- CRUD Alarms endpoint 
-- CRUD Camera endpoint 
-- Get All Owners endpoint
-- Get All Properties endpoint
-- Get All Alarms endpoint
-- Get All Cameras endpoint
-- Get Action logs 
-- Get health status
-- Get All videos from the S3
-- Get All videos of an owner
-- Get All videos from a property
-- Get All videos of a camera
-- Get videos with a video key
-
+ 
 ## API Documentation
 
 https://documenter.getpostman.com/view/24950294/2s8YzZPKBS
