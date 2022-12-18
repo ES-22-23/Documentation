@@ -17,6 +17,3 @@ The Camera starts a RabbitMQ connection with the humand detection model to send 
 ## Flask Server
 The Flask Server has only one endpoint "/health". This endpoint is used to check if the camera is available and running.
 
-## API Documentation
-
-https://documenter.getpostman.com/view/24950294/2s8YzZPKBS
