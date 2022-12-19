@@ -8,16 +8,21 @@ The **SecCom Smart Security** system allows enterprises to create and run a smar
 
 * **Intruder detection** powered by AI/ML modules.
 * **Intrusion Alarms** that are triggered when an intruder is detected.
-* **Web Panel for Clients** where they can manage their buildings and security hardware.
-* A **Scalable Architecture** to support a big amount of cameras and provide real-time intrusion alerts.
+* **Web Panel for Clients** where they can check their buildings and intrusions detected as well as video records of the said intrusions.
+* **Web Panel for Administrators** where they can manage clients, buildings, the system status and security hardware.
+* A **Scalable Architecture** to support multiple cameras and detect multiple intrusions at a time.
 
-## Intruder Detection
+## Core Features
 
-Mode information about Intruder Detection can be found here.
+The main features provided by our system are:
 
-## Intrusion Alarms
-
-## Client's Web Panel
-
-## Architecture
+* Intrusions detection by analysing videos with resort to human detection modules;
+* Report and history of intrusions organized by date, property and camera;
+* Management of users and properties;
+* Set details to users and properties (name, address, etc.);
+* Manage cameras and alarms for different ptoperties;
+* Associate properties with certain owners;
+* Check history of actions performed by the administrators;
+* Health report of the entire system using information provided by our Service Registry;
+* Authentication and Authorization mechanisms provided by an IdP.
 
