@@ -14,6 +14,10 @@ This section contains all the documentation related to the Admin Panel.
 
 [Check Components](../category/components)
 
+## Demonstration video
+
+[Demo Video](https://youtu.be/nAMxP8ZY5rA)
+
 ## Available Scripts
 
 ### `npm install`
